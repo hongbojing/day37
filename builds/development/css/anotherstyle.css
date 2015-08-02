@@ -33,4 +33,16 @@ pre.center{
     width: 60%;
     border: #F2773F solid;
 }
-
+.paragraphCenter{
+    text-align: center;
+}
+.marginCenter{
+    margin-left: auto;
+    margin-right: auto;
+    width: 7em;
+}
+.imageCenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
